@@ -6,9 +6,6 @@
 #define BOLD "\033[1m"
 #define YELLOW	"\033[33;1m"
 #define RESET "\033[0m"
-#define HIGHEST_GRADE 1
-#define LOWEST_GRADE 150
-#define MIDDLE_GRADE 75
 
 #include "../inc/Array.hpp"
 
